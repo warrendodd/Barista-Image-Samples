@@ -10,7 +10,7 @@ I was involved in all the aspects of the pop-up including:
   - [Coffee Selection](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#coffee-selection)
   - [Creation of Drink Menu](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creation-of-drink-menu)
   - [Creation of Pastry Menu](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creation-of-pastry-menu)
-  - Retro-fitting and Plumbing a Coffee Bar
+  - [Retro-fitting and Plumbing a Coffee Bar](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#retrofitting-and-plumbing-a-coffee-bar)
   - Creating and Sourcing Ceramicware
   - Apartment Layout Redesign
   - Handmaking Drink Ingredients and Garnishes
