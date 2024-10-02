@@ -32,7 +32,7 @@ The seasonal drink specials were driven by the theme and easily-accessible seaso
 
 <img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" width="250">
 
-<p font-size: 8px>"Sunrise", the hot drink special</p>
+<p style="font-size:8px">"Sunrise", the hot drink special</p>
 
 I chose "Sunset" to be a cold and refreshing drink, a great ode to the hot summer months. I knew I wanted this to be an espresso tonic drink since it's one of my personal favorite iced drinks. Plus, I knew if others were encouraged to order it as a special, they would enjoy it too. This drink highlights the more delicate sweetness and acicdity of peaches. To me, peach pairs really well with espresso and the botanicals and pithy bitterness of Fever Tree Tonic Water. The drink starts off with homemade peach nectar and orgeat syrup, and then is layered with tonic and a splash of pomegranate juice (also seasonal). Finally, a garnish of a homemade candied orange dusted in aleppo pepper is placed over the floating ice. This drink was addictingly refreshing, with the a great balance of acid, sweetness, and sublte heat from the aleppo pepper. This could also be served with matcha in-place of the espresso. "Sunset" was the most popular drink, with over fifteen being made over the course of the weekend. 
 
