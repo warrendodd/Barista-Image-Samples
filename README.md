@@ -16,6 +16,8 @@ I was involved in all the aspects of the pop-up including:
   - Screenprinting Merchandise
   - Drink Order Automation
 
+Many of these tasks were completed with the help of my life and pop-up partner. She helped greatly with drink testing (there's only so much caffeine I can handle!), as well as with providing feedback on many aspects of the pop-up. Her skills in ceramics and cooking greatly influenced the way we decided to produce drinkware, ingredients, and garnishes. We moved furniture together, made syrups together, lamented over long shipping times together, and rejoiced over the success of the weekend together.
+
 ## Coffee Selection
 I hosted several coffee cuppings and drink testing sessions to dial in what coffees/drinks I wanted to serve. I wanted to select two balanced single-origin options for both espresso and pourovers. For the cuppings, I picked seven single-origin coffees from varying countries and processes. I focused on choosing 2 coffees for the pop-up, 1 coffee being a sweeter and slightly more tradional-tasting coffee that would cater to those who may not have as much of a developed pallette for black specilaity coffee. 
 
