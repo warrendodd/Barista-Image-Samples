@@ -9,7 +9,7 @@ The first pop-up I hosted was the inception of my brand idea, and I focused on h
 I was involved in all the aspects of the pop-up including:
   - [Coffee Selection](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#coffee-selection)
   - [Creation of Drink Menu](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creation-of-drink-menu)
-  - Creation of Pastry Menu
+  - [Creation of Pastry Menu](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creation-of-pastry-menu)
   - Retro-fitting and Plumbing a Coffee Bar
   - Creating and Sourcing Ceramicware
   - Apartment Layout Redesign
