@@ -52,9 +52,9 @@ I've always been intrigued by how the drinkware adds to the experience of the dr
 
 I designed a form I liked, and then scaled it based on the type of mug I wanted. This ended up being a 2oz espresso, 4 oz cortado, 8 oz cappucino, and 12 oz latte sized mugs. In practice, this ended up being a lot more challenging than anticipated, as slipcasting is very much an art and a science that takes skill and practice. The mugs didn't come out quite as crisp and clean as I was hoping, but we successfully created three sets of the four mugs in varying glaze colors. As the dates for the pop-up got closer I decided to devote my energy to other planning aspects since the pottery was a huge timesink. In tandem with the mugs I made, I also sourced mugs and glassware from Loveramics; a very reputable maker who does beatuiful work.
 
-<img src="https://github.com/user-attachments/assets/365e84eb-c935-4114-8669-6211504d625f" width="250">
-<img src="https://github.com/user-attachments/assets/c236961b-e9cc-40f3-bc75-4626cb1893c2" width="250">
-<img src="https://github.com/user-attachments/assets/6b8f8699-9c89-4eac-9046-7063682d4fb5" width="250">
+<img src="https://github.com/user-attachments/assets/365e84eb-c935-4114-8669-6211504d625f" height="250">
+<img src="https://github.com/user-attachments/assets/c236961b-e9cc-40f3-bc75-4626cb1893c2" height="250">
+<img src="https://github.com/user-attachments/assets/6b8f8699-9c89-4eac-9046-7063682d4fb5" height="250">
 
 
 ## Apartment layout redesign
