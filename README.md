@@ -44,6 +44,9 @@ The final special was a nod to our brand, Creature of Habit. Riffing off of ritu
 ## Creation of Pastry Menu
 The creation of the pastry menu was done in partnership with my mother, a very talented home cook and baker. We brainstormed what pastries we could serve that would be easy to prep for two days and serve as single portions. Our options needed to be unique and compliment the drink menu. Finally, we also knew we wanted to have a savory, a sweet, a gluten free, and a vegan option. Our final menu included caneles (her personal speciality); a vegan sourdough focaccia with oranges, castelvatrano olives, and chili oil; a walnut & plain sourdough with homemade seasonal jams; and a gluten-free almond cake. We sold out of everything both days!
 
+<img src="https://github.com/user-attachments/assets/72a34822-5050-4ab2-a04e-34a493df1ee9" width="250">
+
+
 ##  Retrofitting and Plumbing a coffee bar
 I knew to keep up with the volume for the cafe pop-up, I needed to optomize workflow during service. I decided to buy an old and inexpensive antique kitchen island with a butcher block and convert it into a coffee bar. The bar included all my equipment: my Breville Dual Boiler espresso machine, a Eureka Mignon Silencio for grinding for espresso drinks, a Fellow Ode with SSP burrs for handpours, and a Fellow Stagg Kettle. I designed the bar layout to match my workflow and started to incorportate aspects that would increase efficiency and limit how many times I needed to step away. This included plumbing my machine's water reservoir and pitcher rinser to an internal 5 gallon water jug with recipe water, adding a knockbox cutout, adding a line from the drip tray to the pitcher rinser (which has an "out" line to gray water), putting up shelves for glass/ceramic ware/ other tools, setting up a nearby automatic spigot to 5 gallons of recipe filter coffee water, and finally, placing a mini fridge nearby for milks and other ingredients
 
