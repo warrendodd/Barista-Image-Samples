@@ -1,5 +1,8 @@
 # Warren Dodd's Barista Image Portfolio
 This is a repository of images and information showcasing my projects and experiences in coffee. These include pop-ups I've hosted, drinks I've made, and other relevant work.
+
+<img src="https://github.com/user-attachments/assets/e2482b3c-9142-4d25-93da-4aa9f9fe8025" width="250">
+
 ### Quick Links:
 [Pop-Up No. 1: Sunrise, Sunset
 ](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creature-of-habit---pop-up-no-1-sunrise-sunset)
