@@ -33,10 +33,11 @@ I ended up choosing a washed bourbon/catuai/caturra from Honurdas that had a ver
 ## Creation of Drink Menu
 From the start, I knew I wanted to have a very comprehensive drink menu with several seasonal specials. One complaint I've had about many cafes and coffee shops I've been to is that the drink menu tends to feel clunky. That is, it is littered with so many unoriginal and ubiquitous choices, which simply makes the menu look too crowded/overwhelming. I was inspired by La Cabras drink menu and how they've simplified a lot of their milk drink titles, and I decided to adopt this approach. I was very pleased with how the final menu aesthetic turned out. 
 
+<img src="https://github.com/user-attachments/assets/761c7707-6d4a-4b86-926c-368374899b29" height="250">
+
 The seasonal drink specials were driven by the theme and easily-accessible seasonal produce. I chose "Sunrise" to be a hot and warming drink to welcome in the start of the new fall season. The highlight of this drink was the cascara tea syrup that was homemade with warming spices. This was a different take on a typical fall spice/pumpkin spice drink since it had similar spices, but had added umami and acidity from the cascara flavor and lemon juice in the syrup. This was balanaced out by a homemade white miso oil, which was added to the milk before steaming, bringing salt and umami to the drink to balance out those sweet/acidic flavors. The steamed milk was dusted with beetroot powder to give the latte art the aesthetic of a sunrise. The finishing touch was a spritz of orange blossom water. I also designed this drink to be optionally served with hojicha instead of espresso for those who don't enjoy coffee as much. 
 
-<img src="https://github.com/user-attachments/assets/761c7707-6d4a-4b86-926c-368374899b29" height="250">
-<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" height="250">
+<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" width="250">
 
 "Sunrise", the hot drink special
 
@@ -48,7 +49,6 @@ The final special was a nod to our brand, Creature of Habit. Riffing off of ritu
 The creation of the pastry menu was done in partnership with my mother, a very talented home cook and baker. We brainstormed what pastries we could serve that would be easy to prep for two days and serve as single portions. Our options needed to be unique and compliment the drink menu. Finally, we also knew we wanted to have a savory, a sweet, a gluten free, and a vegan option. Our final menu included caneles (her personal speciality); a vegan sourdough focaccia with oranges, castelvatrano olives, and chili oil; a walnut & plain sourdough with homemade seasonal jams; and a gluten-free almond cake. We sold out of everything both days!
 
 <img src="https://github.com/user-attachments/assets/72a34822-5050-4ab2-a04e-34a493df1ee9" width="250">
-
 
 ##  Retrofitting and Plumbing a coffee bar
 I knew to keep up with the volume for the cafe pop-up, I needed to optomize workflow during service. I decided to buy an old and inexpensive antique kitchen island with a butcher block and convert it into a coffee bar. The bar included all my equipment: my Breville Dual Boiler espresso machine, a Eureka Mignon Silencio for grinding for espresso drinks, a Fellow Ode with SSP burrs for handpours, and a Fellow Stagg Kettle. I designed the bar layout to match my workflow and started to incorportate aspects that would increase efficiency and limit how many times I needed to step away. This included plumbing my machine's water reservoir and pitcher rinser to an internal 5 gallon water jug with recipe water, adding a knockbox cutout, adding a line from the drip tray to the pitcher rinser (which has an "out" line to gray water), putting up shelves for glass/ceramic ware/ other tools, setting up a nearby automatic spigot to 5 gallons of recipe filter coffee water, and finally, placing a mini fridge nearby for milks and other ingredients
