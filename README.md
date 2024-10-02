@@ -75,6 +75,9 @@ Nearly everything was homemade for the pop-up except for the milks and tonic wat
 ## Building a brand for Creature of Habit
 I've always described myself as a very habitual person. Throughout my life and my accolades, this habitualness has defined my personality and work ethic, for better and for worse. As I've matured these past few years, I've started to see more of the negative sides of being a "creature of habit" and have started to try and break that mould. That's where the name of this brand and my journey into the specialty coffee indutry stems from. I've realized I have to open myself up to new opportunities and be willing to fail and learn from those failures. Without being willing to break some of my habits, I'll never grow. The name "Creature of Habit" is a nod to this, but also to the idea that we all have as humans have our rituals and habits that we live and die by. Luckily one of those habits for many is drinking coffee.
 
+<img src="https://github.com/user-attachments/assets/e3f0656d-e6c0-4814-9c71-eda266189507" height="250">
+
+
 ## Screenprinting Merchandise
 For the first pop-up I wanted to create a unique experience and have something the guests could take as a memento. I was able to incorporate my hobby of screenprinting to burn screens with different treatments of our logo that guests could print onto an item of their choosing (i.e. shirts, hoodies, totebags, etc.)
 
