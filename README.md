@@ -28,6 +28,8 @@ I hosted several coffee cuppings and drink testing sessions to dial in what coff
 
 I ended up choosing a washed bourbon/catuai/caturra from Honurdas that had a very nice sweetness with a delicate/rounded acidity. I felt this coffee would taste good to a variety of pallettes with/without added milk. For the second selection I wanted something more nuanced and bold - something a coffee nerd could appreciate. I selected an anaerobic/washed castillo from Colombia. This coffee was very bright with a lime zest acidity that was balanced out by a slightly yogurt-like body and fermented vibe. 
 
+<img src="https://github.com/user-attachments/assets/cb982971-1299-4242-b56a-ae815553d0cf" width="250">
+
 ## Creation of Drink Menu
 From the start, I knew I wanted to have a very comprehensive drink menu with several seasonal specials. One complaint I've had about many cafes and coffee shops I've been to is that the drink menu tends to feel clunky. That is, it is littered with so many unoriginal and ubiquitous choices, which simply makes the menu look too crowded/overwhelming. I was inspired by La Cabras drink menu and how they've simplified a lot of their milk drink titles, and I decided to adopt this approach. I was very pleased with how the final menu aesthetic turned out. 
 
