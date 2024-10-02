@@ -52,6 +52,10 @@ I've always been intrigued by how the drinkware adds to the experience of the dr
 
 I designed a form I liked, and then scaled it based on the type of mug I wanted. This ended up being a 2oz espresso, 4 oz cortado, 8 oz cappucino, and 12 oz latte sized mugs. In practice, this ended up being a lot more challenging than anticipated, as slipcasting is very much an art and a science that takes skill and practice. The mugs didn't come out quite as crisp and clean as I was hoping, but we successfully created three sets of the four mugs in varying glaze colors. As the dates for the pop-up got closer I decided to devote my energy to other planning aspects since the pottery was a huge timesink. In tandem with the mugs I made, I also sourced mugs and glassware from Loveramics; a very reputable maker who does beatuiful work.
 
+<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" width="250">
+<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" width="250">
+
+
 ## Apartment layout redesign
 With a bold invite list of 50+ people, I knew I needed to turn my 1-bedroom loft into a functional and beautiful space that emulated a coffee-shop as much as possible. I wanted to do this on a budget and without getting items that would become waste after the pop-up concluded. I completely rearranged the floor plan in my living room to create as much open space as I could while also including as many seats for guests as possible. From the redesign and the addition of 2 small round tables that were trash-picked and bought second hand, I went from 6 available seats in my living room to 15 available seats. Funnily enough, most people chose to stand and socialize during the event!
 
