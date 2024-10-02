@@ -14,7 +14,7 @@ I was involved in all the aspects of the pop-up including:
   - [Creating and Sourcing Ceramicware](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creating-and-sourcing-ceramicware)
   - [Apartment Layout Redesign](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#apartment-layout-redesign)
   - [Handmaking Drink Ingredients and Garnishes](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#handmaking-drink-ingredients-and-garnishes)
-  - Building a Brand for Creature of Habit
+  - [Building a Brand for Creature of Habit](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#building-a-brand-for-creature-of-habit)
   - Screenprinting Merchandise
   - Drink Order Automation
 
