@@ -12,7 +12,7 @@ I was involved in all the aspects of the pop-up including:
   - [Creation of Pastry Menu](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creation-of-pastry-menu)
   - [Retro-fitting and Plumbing a Coffee Bar](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#retrofitting-and-plumbing-a-coffee-bar)
   - [Creating and Sourcing Ceramicware](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#creating-and-sourcing-ceramicware)
-  - Apartment Layout Redesign
+  - [Apartment Layout Redesign](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#apartment-layout-redesign)
   - Handmaking Drink Ingredients and Garnishes
   - Building a Brand for Creature of Habit
   - Screenprinting Merchandise
