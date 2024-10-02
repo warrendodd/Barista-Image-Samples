@@ -86,4 +86,4 @@ For the first pop-up I wanted to create a unique experience and have something t
 
 To further streamline workflow and data collection, I created a drink order form with a google sheets that people could pull up on their phone from a QR code and order. I then formatted a live excel sheet to populate the orders in real-time with important specifics about their drink (i.e. temp, milk type, time of order, etc.) This helped me with not only keeping track of orders, but also workflow multitasking. Guests were also able to go back and edit the form to leave feedback about both their drink and the pop-up which auto-populated on a seperate excel sheet. 
 
-<img src="https://github.com/user-attachments/assets/7ae32c4f-a615-41c0-b57f-2d0c698bbc78" height="250">
+<img src="https://github.com/user-attachments/assets/7ae32c4f-a615-41c0-b57f-2d0c698bbc78" width="250">
