@@ -35,8 +35,8 @@ From the start, I knew I wanted to have a very comprehensive drink menu with sev
 
 The seasonal drink specials were driven by the theme and easily-accessible seasonal produce. I chose "Sunrise" to be a hot and warming drink to welcome in the start of the new fall season. The highlight of this drink was the cascara tea syrup that was homemade with warming spices. This was a different take on a typical fall spice/pumpkin spice drink since it had similar spices, but had added umami and acidity from the cascara flavor and lemon juice in the syrup. This was balanaced out by a homemade white miso oil, which was added to the milk before steaming, bringing salt and umami to the drink to balance out those sweet/acidic flavors. The steamed milk was dusted with beetroot powder to give the latte art the aesthetic of a sunrise. The finishing touch was a spritz of orange blossom water. I also designed this drink to be optionally served with hojicha instead of espresso for those who don't enjoy coffee as much. 
 
-<img src="https://github.com/user-attachments/assets/761c7707-6d4a-4b86-926c-368374899b29" width="250">
-<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" width="250">
+<img src="https://github.com/user-attachments/assets/761c7707-6d4a-4b86-926c-368374899b29" height="250">
+<img src="https://github.com/user-attachments/assets/e7d47933-7bbe-4da8-b667-a187b80f1f53" height="250">
 
 "Sunrise", the hot drink special
 
