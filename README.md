@@ -16,7 +16,7 @@ I was involved in all the aspects of the pop-up including:
   - [Handmaking Drink Ingredients and Garnishes](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#handmaking-drink-ingredients-and-garnishes)
   - [Building a Brand for Creature of Habit](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#building-a-brand-for-creature-of-habit)
   - [Screenprinting Merchandise](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#screenprinting-merchandise)
-  - Drink Order Automation
+  - [Drink Order Automation](https://github.com/warrendodd/Barista-Image-Samples/blob/main/README.md#drink-order-automation)
 
 Many of these tasks were completed with the help of my life and pop-up partner. She helped greatly with drink testing (there's only so much caffeine I can handle!), as well as with providing feedback on many aspects of the pop-up. Her skills in ceramics and cooking greatly influenced the way we decided to produce drinkware, ingredients, and garnishes. We moved furniture together, made syrups together, lamented over long shipping times together, and rejoiced over the success of the weekend together.
 
