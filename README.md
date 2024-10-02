@@ -80,7 +80,7 @@ I've always described myself as a very habitual person. Throughout my life and m
 ## Screenprinting Merchandise
 For the first pop-up I wanted to create a unique experience and have something the guests could take as a memento. I was able to incorporate my hobby of screenprinting to burn screens with different treatments of our logo that guests could print onto an item of their choosing (i.e. shirts, hoodies, totebags, etc.)
 
-<img src="https://github.com/user-attachments/assets/2d3d69f3-0586-41cf-83a3-1a6c1003467c" height="250">
+<img src="https://github.com/user-attachments/assets/b8a40437-5df5-443e-a17e-f60d8329fdb4" height="250">
 
 ## Drink Order Automation
 To further streamline workflow and data collection, I created a drink order form with a google sheets that people could pull up on their phone from a QR code and order. I then formatted a live excel sheet to populate the orders in real-time with important specifics about their drink (i.e. temp, milk type, time of order, etc.) This helped me with not only keeping track of orders, but also workflow multitasking. Guests were also able to go back and edit the form to leave feedback about both their drink and the pop-up which auto-populated on a seperate excel sheet. 
