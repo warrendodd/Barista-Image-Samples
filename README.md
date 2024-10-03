@@ -80,7 +80,7 @@ I've always described myself as a very habitual person. Throughout my life and m
 ## Screenprinting Merchandise
 For the first pop-up I wanted to create a unique experience and have something the guests could take as a memento. I was able to incorporate my hobby of screenprinting to burn screens with different treatments of our logo that guests could print onto an item of their choosing (i.e. shirts, hoodies, totebags, etc.)
 
-<img src="https://github.com/user-attachments/assets/d9444e5b-584d-4411-840e-5cf335be0122" height="250">
+<img src="https://github.com/user-attachments/assets/d9444e5b-584d-4411-840e-5cf335be0122" height="350">
 
 ## Drink Order Automation
 
